@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bincode", "Bincode\Bincode.csproj", "{DEAC576C-3337-45BD-99C2-72FA82E1C28B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bincode.Tests", "Bincode.Tests\Bincode.Tests.csproj", "{3BA48C62-317C-443E-8A75-36FE35FC3015}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEAC576C-3337-45BD-99C2-72FA82E1C28B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEAC576C-3337-45BD-99C2-72FA82E1C28B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEAC576C-3337-45BD-99C2-72FA82E1C28B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEAC576C-3337-45BD-99C2-72FA82E1C28B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BA48C62-317C-443E-8A75-36FE35FC3015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BA48C62-317C-443E-8A75-36FE35FC3015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BA48C62-317C-443E-8A75-36FE35FC3015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BA48C62-317C-443E-8A75-36FE35FC3015}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94E8DF5F-4040-4310-A67C-20BF687CD13F}
+	EndGlobalSection
+EndGlobal
